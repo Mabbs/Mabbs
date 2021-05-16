@@ -14,6 +14,8 @@
 
  [![Stats](https://github-readme-stats.vercel.app/api?username=Mabbs&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/Mabbs)
 
+ [![WCG](https://www.seti-germany.de/wcg/badge_Mayx_10.png)](https://widget.worldcommunitygrid.org/discover.action?recruiterId=989431&teamId=916RWX2QBN1)
+
 ## 联系方式
  
  Wechat&[Telegram](https://t.me/unmayx): unmayx
@@ -23,5 +25,3 @@
  Email: <mayx@outlook.com>
  
  [About.me](https://about.me/mayx)
-
- ![WCG](https://www.seti-germany.de/wcg/badge_Mayx_10.png)
