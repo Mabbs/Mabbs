@@ -14,7 +14,7 @@
 
  [![Stats](https://github-readme-stats.vercel.app/api?username=Mabbs&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/Mabbs)
 
- [![WCG](https://www.seti-germany.de/wcg/badge_Mayx_10.png)](https://widget.worldcommunitygrid.org/discover.action?recruiterId=989431&teamId=916RWX2QBN1)
+ [![WCG](https://www.seti-germany.de/wcg/badge_Mayx_10.png)](https://www.worldcommunitygrid.org/stat/viewMemberInfo.do?userName=Mayx)
 
 ## 联系方式
  
