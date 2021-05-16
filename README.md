@@ -12,7 +12,7 @@
 
  [![Blog](https://mabbs.github.io/BlogCard.svg)](https://mabbs.github.io)
 
- [![Stats](https://github-readme-stats.vercel.app/api?username=Mabbs&show_icons=true&theme=dark)](https://github.com/Mabbs)
+ [![Stats](https://github-readme-stats.vercel.app/api?username=Mabbs&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/Mabbs)
 
 ## 联系方式
  
