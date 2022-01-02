@@ -1,3 +1,8 @@
+# 通知
+  由于未知原因Github在没有任何通知的情况下禁用了[我的博客仓库](https://github.com/Mabbs/mabbs.github.io)，现已提交Ticket，若Github在2022.01.15前仍未解决此问题，我的博客将根据需要迁移至Gitlab，并根据需要选择使用Gitlab Pages服务或者Cloudflare Pages服务。   
+  当前博客地址：<https://mayx.gitlab.io/>
+  Deadline: 2022.01.15   
+  
 # 关于Mayx  ![visitors](https://visitor-badge.glitch.me/badge?page_id=mayx_page)   
 
 | Item | Value |
@@ -10,7 +15,7 @@
 
 ## 卡片
 
- [![Blog](https://mabbs.github.io/BlogCard.svg)](https://mabbs.github.io)
+ [![Blog](https://mayx.gitlab.io/BlogCard.svg)](https://mayx.gitlab.io/)
 
  [![Stats](https://github-readme-stats.vercel.app/api?username=Mabbs&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/Mabbs)
  
