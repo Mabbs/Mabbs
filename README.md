@@ -24,6 +24,6 @@
  
  Phone Number: 15209678869
  
- Email: <mayx@outlook.com>
+ Email: <i@mayx.eu.org>
  
  [About.me](https://about.me/mayx)
