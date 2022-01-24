@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 关于Mayx  ![visitors](https://visitor-badge.glitch.me/badge?page_id=mayx_page)   
 
 | Item | Value |
