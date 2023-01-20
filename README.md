@@ -12,7 +12,7 @@
 
  [![Blog](https://mabbs.github.io/BlogCard.svg)](https://mabbs.github.io/)
 
- [![Stats](https://github-readme-stats-ruby-one.vercel.app/api?username=Mabbs&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/Mabbs)
+ [![Stats](https://github-readme-stats.vercel.app/api?username=Mabbs&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/Mabbs)
  
  [![Mayx's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mabbs&theme=github)](https://github.com/Mabbs)
 
