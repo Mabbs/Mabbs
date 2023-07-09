@@ -1,4 +1,4 @@
-# 关于Mayx  ![visitors](https://visitor-badge.glitch.me/badge?page_id=mayx_page)   
+# 关于Mayx
 
 | Item | Value |
 | - | - |
@@ -14,8 +14,6 @@
 
  [![Stats](https://github-readme-stats.vercel.app/api?username=Mabbs&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/Mabbs)
  
- [![Mayx's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mabbs&theme=github)](https://github.com/Mabbs)
-
  [![WCG](https://www.seti-germany.de/wcg/badge_Mayx_10.png)](https://www.worldcommunitygrid.org/stat/viewMemberInfo.do?userName=Mayx)
 
 ## 联系方式
