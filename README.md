@@ -23,5 +23,7 @@
  Phone Number: 15209678869
  
  Email: <i@mayx.eu.org>
+
+ <a rel="me" href="https://mastodon.social/@mayx">Mastodon</a>
  
  [About.me](https://about.me/mayx)
